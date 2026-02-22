@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#numbers {
+  margin-top: 15px;
+}
+
+.number-box {
+  display: inline-block;
+  background-color: #2c7be5;
+  color: white;
+  padding: 8px;
+  margin: 4px;
+  border-radius: 4px;
+}
+
+.par {
+  background-color: #2c7be5; /* azul */
+}
+
+.impar {
+  background-color: #e83e8c; /* rosado */
+}
