@@ -1,3 +1,5 @@
+// GENERADOR DE TABLAS DE MULTIPLICAR
+
 // 1. Obtener el botón (id: generateBtn).
 // 2. Obtener el input (id: numberInput).
 // 3. Obtener el contenedor del resultado (id: result).
@@ -12,4 +14,5 @@
 //      - Crear un div.
 //      - Mostrar: número x i = resultado.
 //      - Agregar clase "line".
+
 //      - Agregar el div al contenedor.
